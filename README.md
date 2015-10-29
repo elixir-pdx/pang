@@ -13,7 +13,7 @@ The rules are as follows:
    1. If they miss, then they notify the ball's owner, and the opponent who hit it to them scores a point, and the owner again serves their ball into play.
    2. If they hit, then the ball hurls at lightspeed into the unsuspecting court of another random player.
 4. The first player to 11 points wins a match.
-5. The first player to win 5 maches wins the game.
+5. The first player to win 5 matches wins the game.
 
 
 **Prerequisites:**
